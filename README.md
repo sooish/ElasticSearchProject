@@ -1,6 +1,6 @@
 # About the project
  
-컴퓨터 알고리즘 학습지원 [웹서비스인 프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges) 사용편의를 제고하고 동기를 부여하려는 목적을 가지고 있다. 이 웹프로그램을 통해 실현하고자 하는 기술적 목표는 다음과 같다.
+엘라서틱 서치
 
  
 * **프로그래머스에서 자신이 푼 문제들을 관리할 수 있다** :
@@ -22,38 +22,28 @@
 
  
 
-| Items | Status | 
-|-----|--------|
-| 데이터크롤링| [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-| SQL / PLSQL | [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-| MVC 패턴 | [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-| 웹서비스 / 비동기| [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/nuxeo-master)](https://qa.nuxeo.org/jenkins/job/master/job/nuxeo-master)|
-|Google Charts|[![Test Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/FT-nuxeo-master-funkload-cap-tomcat-multidb)](https://qa.nuxeo.org/jenkins/job/master/job/FT-nuxeo-master-funkload-cap-tomcat-multidb)
-
-
 
 # Built with
 ```
-* RDBMS : Oracle
-* Back End Development Languages : Java / Servlet & JSP / SQL
-* Front End Development Languages : Java Script / HTML / CSS
-* Libraries : Lombok / Google Chart 
-* Tools : Maven / Eclipse / Apache Tomcat / Kakao Oven
-* Additional technical sets : Ajax / Selenium
+* RDBMS : Elastic Search
+* Front End Development Languages : Kibana
+* Tools : ElasticSearch Head
 ```
 
 
 # Authors
 
-* **김수경**: Front-end development : [김수경의 깃헙](https://github.com/sooish)
-
-
+* **강민웅**:  [강민웅의 깃헙](https://github.com/happymwkang)
+* **김수경**:  [김수경의 깃헙](https://github.com/sooish)
+* **김웅태**:  [김웅태의 깃헙](https://github.com/angle2v)
+* **김종성**:  [김종성의 깃헙](https://github.com/SEJSCloud)
+* **최성국**:  [최성국의 깃헙](https://github.com/SEJSCloud)
+ 
 
 # Images
 
 <div>
 <img src="https://user-images.githubusercontent.com/51253930/65131677-a30ce380-da3a-11e9-83a7-9432de16828f.png" width="90%"></img>
-
 </div>
 
  
