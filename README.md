@@ -52,7 +52,7 @@
 # Images
 
 <div>
-<img src="https://user-images.githubusercontent.com/34482785/64932636-69da4500-d87b-11e9-85b6-02b500724140.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/51253930/65131677-a30ce380-da3a-11e9-83a7-9432de16828f.png" width="90%"></img>
 
 </div>
 
