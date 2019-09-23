@@ -1,12 +1,12 @@
 # About the project
  
-BANK 테이블에 기반하여, 엘라서틱 서치의 다양한 API를 활용한 작업을 디자인한다. 
+Json형식의 BANK 테이블을 엘라스틱 서치에 넣은 후, 키바나, 포스트맨, 엘라스틱 서치 해드, 엘라스틱서치의 다양한 API를 활용하여 데이터를 가공하는 작업을 디자인해본다. 
 
 
 # Built with
 ```
 * RDBMS : Elastic Search
-* Front End Development Languages : Kibana
+* Front End Development Languages : Kibana, Postman
 * Tools : ElasticSearch Head
 ```
 
