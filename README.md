@@ -1,6 +1,6 @@
 # About the project
  
-BANK 테이블을 기반하여, 엘라서틱 서치의 다양한 API를 활용한 작업을 디자인한다. 
+BANK 테이블에 기반하여, 엘라서틱 서치의 다양한 API를 활용한 작업을 디자인한다. 
 
 
 # Built with
