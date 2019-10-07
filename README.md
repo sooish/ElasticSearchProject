@@ -16,7 +16,7 @@ Json형식의 BANK 테이블을 엘라스틱 서치에 넣은 후, 키바나, �
 * **김수경**:  [김수경의 깃헙](https://github.com/sooish)
 * **김웅태**:  [김웅태의 깃헙](https://github.com/angle2v)
 * **김종성**:  [김종성의 깃헙](https://github.com/SEJSCloud)
-* **최성국**:  [최성국의 깃헙](https://github.com/SEJSCloud)
+* **최성국**:  [최성국의 깃헙](https://github.com/sunggookchoi)
  
 
 # Images
